@@ -208,9 +208,8 @@ C와 달리 Go는 다른 type의 요소들 간의 할당에는 명시적인 변�
 
 .play basics/constants.go
 
-* Numeric Constants
+* 숫자형 상수
 
-숫자형 상수
 숫자형 상수는 매우 정확한 _값_ 입니다.
 
 type이 정해지지 않은 상수는 그것의 문맥에서 필요한 type을 취합니다.
