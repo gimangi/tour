@@ -37,9 +37,9 @@ Go는 for 반복문이라는 단 하나의 반복 구조를 가집니다.
 
 .play flowcontrol/for-is-gos-while.go
 
-* 영원한 For
+* Forever - for 문으로 무한루프 만들기
 
-만약 당신이 그것이 영원한 반복문에서 반복 조건을 생략한다면, 그것을 통해 무한 루프 또한 간편히 표현될 수 있습니다.
+반복 조건을 생략하면 간단하게 무한 루프를 만들 수 있습니다.
 
 .play flowcontrol/forever.go
 
