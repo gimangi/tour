@@ -1,6 +1,6 @@
 # Go Tour (Go를 향한 여행)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 이 repository는 https://tour.golang.org 의 한국어 번역을 위한 repository 입니다.
@@ -74,6 +74,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/zoripong"><img src="https://avatars.githubusercontent.com/u/26541456?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yuri Han</b></sub></a><br /><a href="#translation-zoripong" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/begaonnuri"><img src="https://avatars.githubusercontent.com/u/39271364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>남윤서</b></sub></a><br /><a href="#translation-begaonnuri" title="Translation">🌍</a></td>
     <td align="center"><a href="https://facerain.github.io/"><img src="https://avatars.githubusercontent.com/u/16442978?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yong woo Song</b></sub></a><br /><a href="#translation-FacerAin" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://joanne.tistory.com/"><img src="https://avatars.githubusercontent.com/u/48412963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joanne</b></sub></a><br /><a href="#translation-seovalue" title="Translation">🌍</a></td>
   </tr>
 </table>
 
