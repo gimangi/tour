@@ -62,19 +62,19 @@ $ go run .
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+go tour 번역에 기여해주신 분들입니다. ([emoji key 참고](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://umi0410.github.io"><img src="https://avatars.githubusercontent.com/u/33250725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinsu Park</b></sub></a><br /><a href="#infra-umi0410" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/golang-ko/tour/pulls?q=is%3Apr+reviewed-by%3Aumi0410" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://umi0410.github.io"><img src="https://avatars.githubusercontent.com/u/33250725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinsu Park</b></sub></a><br /><a href="#infra-umi0410" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/golang-ko/tour/pulls?q=is%3Apr+reviewed-by%3Aumi0410" title="Reviewed Pull Requests">👀</a><a href="#translation-seovalue" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://joanne.tistory.com/"><img src="https://avatars.githubusercontent.com/u/48412963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joanne</b></sub></a><br /><a href="#translation-seovalue" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://facerain.github.io/"><img src="https://avatars.githubusercontent.com/u/16442978?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yong woo Song</b></sub></a><br /><a href="#translation-FacerAin" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/dextto"><img src="https://avatars.githubusercontent.com/u/6759796?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yongjae Han</b></sub></a><br /><a href="#translation-dextto" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/zoripong"><img src="https://avatars.githubusercontent.com/u/26541456?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yuri Han</b></sub></a><br /><a href="#translation-zoripong" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/begaonnuri"><img src="https://avatars.githubusercontent.com/u/39271364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>남윤서</b></sub></a><br /><a href="#translation-begaonnuri" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://facerain.github.io/"><img src="https://avatars.githubusercontent.com/u/16442978?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yong woo Song</b></sub></a><br /><a href="#translation-FacerAin" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://joanne.tistory.com/"><img src="https://avatars.githubusercontent.com/u/48412963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joanne</b></sub></a><br /><a href="#translation-seovalue" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/begaonnuri"><img src="https://avatars.githubusercontent.com/u/39271364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>남윤서</b></sub></a><br /><a href="#translation-begaonnuri" title="Translation">🌍</a></td>    
   </tr>
 </table>
 
@@ -82,5 +82,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
