@@ -1,6 +1,6 @@
 #service: tour
 service: default
-runtime: go112
+runtime: go115
 
 env_variables:
   GOLANGORG_CHECK_COUNTRY: true
