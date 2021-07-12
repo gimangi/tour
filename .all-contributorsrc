@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "umi0410",
+      "name": "Jinsu Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33250725?v=4",
+      "profile": "https://umi0410.github.io",
+      "contributions": [
+        "infra",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "tour",
+  "projectOwner": "golang-ko",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
