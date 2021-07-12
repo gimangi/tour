@@ -14,6 +14,15 @@
         "infra",
         "review"
       ]
+    },
+    {
+      "login": "dextto",
+      "name": "Yongjae Han",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6759796?v=4",
+      "profile": "https://github.com/dextto",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,

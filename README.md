@@ -1,6 +1,6 @@
 # Go Tour (Go를 향한 여행)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 이 repository는 https://tour.golang.org 의 한국어 번역을 위한 repository 입니다.
@@ -70,6 +70,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://umi0410.github.io"><img src="https://avatars.githubusercontent.com/u/33250725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinsu Park</b></sub></a><br /><a href="#infra-umi0410" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/golang-ko/tour/pulls?q=is%3Apr+reviewed-by%3Aumi0410" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/dextto"><img src="https://avatars.githubusercontent.com/u/6759796?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yongjae Han</b></sub></a><br /><a href="#translation-dextto" title="Translation">🌍</a></td>
   </tr>
 </table>
 
