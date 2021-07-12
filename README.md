@@ -1,4 +1,7 @@
 # Go Tour (Go를 향한 여행)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 이 repository는 https://tour.golang.org 의 한국어 번역을 위한 repository 입니다.
 
@@ -122,3 +125,23 @@ at https://github.com/golang/tour/issues.
 
 Unless otherwise noted, the go-tour source files are distributed
 under the BSD-style license found in the LICENSE file.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://umi0410.github.io"><img src="https://avatars.githubusercontent.com/u/33250725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinsu Park</b></sub></a><br /><a href="#infra-umi0410" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/golang-ko/tour/pulls?q=is%3Apr+reviewed-by%3Aumi0410" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
