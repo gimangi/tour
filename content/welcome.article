@@ -71,9 +71,9 @@ https://golang.org
 #appengine:
 #appengine: 이 여행을 local에서 실행하기 위해서는 당신은 우선 [[https://golang.org/doc/install][Go 설치]]를 한 뒤 다음을 실행시켜야합니다.
 #appengine:
-#appengine:   go get golang.org/x/tour
+#appengine:   go install golang.org/x/website/tour@latest
 #appengine:
-#appengine: 이것은 `tour` 바이너리를 당신의 [[https://golang.org/doc/code.html#Workspaces][workspace]]의 `bin` 디렉토리에 위치시킬 것입니다.
+#appengine: 이것은 `tour` 바이너리를 당신의 [[https://golang.org/cmd/go#hdr-GOPATH_and_Modules][GOPATH]]의 `bin` 디렉토리에 위치시킬 것입니다.
 #appengine: 당신이 이 여행 프로그램을 실행시킬 때, 그것은 당신의 local 버전의 투어를 보여주는 웹 브라우저를 열어줄 것입니다.
 #appengine:
 #appengine: 물론, 당신은 이 웹사이트를 통해서 여행을 진행할 수도 있습니다.
